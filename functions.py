@@ -10,7 +10,7 @@ def calculate(value):
     
 
 print_some_value()
-salary_in_us=calculate(1000)
+salary_in_us=calculate(2000)
 print('shylesh salary in US',salary_in_us)
 print_some_value('m')
 print_some_value('f')
